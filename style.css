@@ -383,4 +383,5 @@
     nav{gap:16px;}
     .bio-grid{flex-direction:column;}
     .accordion-body{width:100%;}
+    .wrap{width:90%;margin:0 auto;padding:0 28px;}
   }
