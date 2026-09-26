@@ -395,7 +395,7 @@
   @media (max-width:640px){
     .project-card{flex-direction:column;}
     .project-img{width:100%;min-height:160px;}
-    .project-info{width:100%;}
+    .project-info{width:100%; padding: 30px}
     nav{gap:30\px;}
     .bio-grid{flex-direction:column;}
     .accordion-body{width:100%;}
