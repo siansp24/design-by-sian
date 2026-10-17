@@ -378,7 +378,6 @@
   .feature-grid {
     grid-template-columns: 1fr;
     align-content: center;
-    margin: auto;
     width: 100%;
   }
   .feature-item {
